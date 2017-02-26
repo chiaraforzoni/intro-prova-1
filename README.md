@@ -55,4 +55,3 @@ Allo scadere del tempo, simbolicamente quando la notte finisce, tutto diventa ne
 > Vorremmo inoltre ringraziare i professori che ci hanno gentilmente e pazientemente seguito durante il semestre, siamo molto soddisfatte dei nostri piccoli-grandi passi nel mondo della programmazione 🙂
 
 #####**_Chiara e Alice_**
-Alice Paganini
