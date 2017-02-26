@@ -2,6 +2,7 @@
 
 ####Remembering Dresden
 ####*Progetto a cura di Chiara Forzoni e Alice Paganini*
+_Italian version_
 
 Il progetto è nato dall'idea di rendere visibili  concetti **fuori scala** e poco tangibili come **quantità e tempo**.
 Spesso si usa "tonnellate di..., migliaia di anni" ma non si ha mai ben chiaro in mente il peso e la quantità di questi grandi numeri.
