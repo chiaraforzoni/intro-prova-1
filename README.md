@@ -1,7 +1,7 @@
-## **_Under the sky of Dresden
+## **_Under the sky of Dresden_**
+
 ####Remembering Dresden
 ####*Project made by Chiara Forzoni and Alice Paganini*
-
 -English version-
 
  The idea for the project came from the attempt of making visible those concepts which were  **out of scale** and not tangible in terms of both  **quantity and time**. We are often used to say “tons of… thousands of…”, but we never have in mind the exact amount and weight of those huge numbers.
@@ -20,7 +20,7 @@ In a symbolic way, the night finishes when the deadline comes. All becomes black
 > The code was entirely made by us, with the exception of a line inside index.html file, which has been taken from Steve Suerhing’s “Javascript, step by step”. The line was used to create a button:
 
 ######script src="sketch.js" type="text/javascript"></script>
-<input type="button" onclick="location.href='www.sample.com';" value="sample" style="font-size: 12px; border: 1pt ridge black" /
+<input type="button" onclick="location.href='wwwexamplesite.com';" value="sample" style="font-size: 12px; border: 1pt ridge black" /
 > Lastly, we would like to thank the professors which have kindly and patiently trained us during the entire semester. We are very proud of our small-big steps in this programming world. 
 #####**_Chiara e Alice_**
 
