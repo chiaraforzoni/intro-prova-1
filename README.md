@@ -32,7 +32,7 @@ Allo scadere del tempo, simbolicamente quando la notte finisce, tutto diventa ne
 
 ####Under the sky of Dresden
 ####Remembering Dresden
-####*Project made by Chiara Forzoni and Alice Paganini
+####*Project made by Chiara Forzoni and Alice Paganini*
 
 The idea for the project came from the attempt of making visible those concepts which were **out of scale** and not tangible in terms of both **quantity and time**. We are often used to say “tons of… thousands of…”, but we never have in mind the exact amount and weight of those huge numbers.
 
