@@ -23,7 +23,7 @@ Allo scadere del tempo, simbolicamente quando la notte finisce, tutto diventa ne
 
 > L'intero codice è stato scritto per mano nostra ad esclusione dell'inserimento di una stringa (ripresa dal libro 'Javascript. Passo per passo' di Steve Suehring) dentro il file index.html della pagina iniziale per creare un bottone:
 
-######script src="sketch.js" type="text/javascript"></script> <input type="button" onclick="location.href='WEBSITE';"value="sample" style="font-size: 12px; border: 1pt ridge black"_
+######script src="sketch.js" type="text/javascript"></script> <input type="button" onclick="location.href='website';"value="sample" style="font-size: 12px; border: 1pt ridge black"_
 
 > Vorremmo inoltre ringraziare i professori che ci hanno gentilmente e pazientemente seguito durante il semestre, siamo molto soddisfatte dei nostri piccoli-grandi passi nel mondo della programmazione 🙂
 
@@ -48,7 +48,7 @@ In a symbolic way, the night finishes when the deadline comes. All becomes black
 The code was entirely made by us, with the exception of a line inside index.html file, which has been taken from Steve Suerhing’s “Javascript, step by step”. The line was used to create a button:
 
 ######script src="sketch.js" type="text/javascript"></script>
-<input type="button" onclick="location.href='WEBSITE';" value="sample" style="font-size: 12px; border: 1pt ridge black" /
+<input type="button" onclick="location.href='website';" value="sample" style="font-size: 12px; border: 1pt ridge black" /
 
 > Lastly, we would like to thank the professors which have kindly and patiently trained us during the entire semester. We are very proud of our small-big steps in this programming world. 
 
