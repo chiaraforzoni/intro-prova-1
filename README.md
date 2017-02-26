@@ -1,3 +1,30 @@
+## **_Under the sky of Dresden
+####Remembering Dresden
+####*Project made by Chiara Forzoni and Alice Paganini*
+
+-English version-
+
+ The idea for the project came from the attempt of making visible those concepts which were  **out of scale** and not tangible in terms of both  **quantity and time**. We are often used to say “tons of… thousands of…”, but we never have in mind the exact amount and weight of those huge numbers.
+
+During the night of  **14/02/1945 ** over *4000 tons* of explosive bombs had been dropped on the city of Dresda, by Britannic and American air forces. It caused *3000 death* and it destroyed the entire city.
+
+Regarding those numbers, could you imagine how actually 4000 tons of explosive are? And how short the night seems, while filled with bombs?
+
+The challenge was to figure out the bombs’ exact quantity, and how quick the bombard was. We thought that the best way to do so would be to identify ourselves with who is responsible of the bombard.
+Therefore, the idea has been developed in a sort of gaming-mode, where the visitor plays as an airforce soldier, and he needs to drop thousand explosive bombs in two minutes only. Bombs are falling from the sky “burning” the city skyline, then exploding when reaching the ground. Meanwhile, the field below is being filled with many grey dots, one for every victim of the bombard. 
+
+In a symbolic way, the night finishes when the deadline comes. All becomes black, with an announcement which declares that the game is over. 
+
+
+> Since we are neophyte in programming, we occurred into not few difficulties while developing this project. We took benefit from background literature and books to solve some problems, such as: leaving a trail in the skyline which matches with the collapsing bomb, setting a countdown for the action, creating the starting page (which has been made by inserting in the index a redirecting link towards another webpage), then successfully merging the overall codes parts. 
+> The code was entirely made by us, with the exception of a line inside index.html file, which has been taken from Steve Suerhing’s “Javascript, step by step”. The line was used to create a button:
+
+######script src="sketch.js" type="text/javascript"></script>
+<input type="button" onclick="location.href='www.sample.com';" value="sample" style="font-size: 12px; border: 1pt ridge black" /
+> Lastly, we would like to thank the professors which have kindly and patiently trained us during the entire semester. We are very proud of our small-big steps in this programming world. 
+#####**_Chiara e Alice_**
+
+
 ## **_Under the sky of Dresden_**
 
 ####Remembering Dresden
